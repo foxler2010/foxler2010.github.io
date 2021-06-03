@@ -25,6 +25,7 @@ github_username: foxler2010
 minimal_mistakes_skin: dark
 search: true
 locale: "en-US"
+teaser: /assets/images/teaser.png
 
 # Build settings
 markdown: kramdown
