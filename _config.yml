@@ -26,6 +26,7 @@ minimal_mistakes_skin: dark
 search: true
 locale: "en-US"
 teaser: /assets/images/teaser.png
+logo: /assets/images/021-cropped.png
 
 # Build settings
 markdown: kramdown
