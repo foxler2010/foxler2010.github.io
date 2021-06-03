@@ -28,6 +28,9 @@ locale: "en-US"
 teaser: /assets/images/teaser.png
 logo: /assets/images/021-edited-v2.png
 
+atom_feed:
+  hide: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
