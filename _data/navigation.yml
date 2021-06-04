@@ -1,9 +1,12 @@
 main:
   - title: "Blog"
     url: /blog/
- # - title: "Categories"
- #   url: /categories/
- # - title: "Tags"
- #   url: /tags/
   - title: "About"
     url: /about/
+  - title: "Archive"
+    url: /posts/
+# this stuff will be inside a submenu...
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
