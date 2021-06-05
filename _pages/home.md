@@ -68,9 +68,7 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-## recent posts appear at the bottom of the page because of this.
-## it is a copy of the source code for the 'home' layout, which
-## is used on the blog page
+[//] # (This is a comment. The below code is the source for the 'home' layout in the theme. This way, recent posts are displayed below the end of the splash layout)
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
