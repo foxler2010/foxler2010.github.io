@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "Drew"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/gravatar.jpeg"
   bio    : "Hi, I'm Drew. I like computers, and know a bit about a lot. This is my blog."
   links:
     - label: "Website"
