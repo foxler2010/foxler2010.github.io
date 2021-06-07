@@ -2,7 +2,7 @@
 title: "The Thing About Yeast"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Stupid Ideas
 tags:
   - random
   - special
