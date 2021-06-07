@@ -26,17 +26,17 @@ Inside the yeast (like all other organisms), a chemical reaction occurs in the m
 ## The good stuff
 
 Now that we understand the basis for all life, we can begin to understand the practical and industrial uses of yeast as we know it today. Today, yeast can be found in packets in many grocery stores and is a common ingredient used when making things that require leavening or fermentation. It is used in an industrial setting for the exact same purpose, only on a bigger scale. And now to see some images of yeast in use at a factory.
-
-
-
-
-
+    
+    
+    
+    
+    
 ### Time to go watch How It's Made.
-
-
-
-
-
+    
+    
+    
+    
+    
 Okay, welcome back. Hope you enjoyed watching that episode of How It's Made. I certainly did. Let's recap. Yeast was poured into the mix of ingredients and they let it sit in a sealed container of stuff where fermentation happened. And then they got wine. The yeast lived in there for a few months/years and fed on the stuff in there (grapes, in the case of wine). It released waste after eating the grapes, and when all was done, we had a tasty drink for 21 and up.
 
 ## The problem and the solution
