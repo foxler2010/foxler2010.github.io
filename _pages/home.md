@@ -13,7 +13,7 @@ header:
   caption: "[Photo credit: Mary Ray/Unsplash](https://unsplash.com/@mary_ray)"
 excerpt: "Hey. I'm Drew, and this is my blog"
 intro: 
-  - excerpt: '# **Projects**'
+  - excerpt: '# **Hardware & Projects**'
 feature_row:
   - image_path: assets/images/raspberrypis-cropped.jpg
     alt: "My Raspberry Pis"
@@ -23,19 +23,20 @@ feature_row:
     btn_label: "Check it out"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    alt: "The server"
+    title: "Server"
+    excerpt: "I own a Dell PowerEdge R710 that I use for a lot of things,"
+    url: "/projects/server"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "The Minecraft title screen with Forge installed"
+    title: "Coding"
+    excerpt: "I know how to code in Java, and am currently working on coding Minecraft mods with the Forge API."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    alt: ""
+    title: ""
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -43,10 +44,10 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "My stupid ideas"
+    excerpt: 'I have written a few posts about the garbage in my head. If you would like to see what's in my dreams then click here. (I don't know why anyone would care about the stuff here but that's beside me; do what you want.)'
+    url: "/categories/#stupid-ideas"
+    btn_label: "Be confused."
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
