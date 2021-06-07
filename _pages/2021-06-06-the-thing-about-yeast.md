@@ -11,7 +11,7 @@ tags:
 
 # The thing about yeast
 
-You know how bread is made, right? You pile on the ingredients: flour, corn meal, sugar, etc. You let the dough rise. You put it in a breadpan, and you cook it in the oven. You'd think that is all, but there is much more to it that I would like to inquire about. Specifically about yeast. The special ingredient that *does* stuff.
+You know how bread is made, right? You pile on the ingredients: flour, corn meal, sugar, etc. You let the dough rise. You put it in a breadpan, and you cook it in the oven. You'd think that is all, but there is much more to it that I would like to inquire about. Specifically about yeast. The special ingredient that *does* stuff. There is a lot behind the scenes that goes into making bread, along with a lot of other products that require the ingredient (or some sort of equivalent). Today I am going on a deep dive in.
 
 <!--more-->
 
