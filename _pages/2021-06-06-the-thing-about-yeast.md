@@ -21,4 +21,8 @@ I'm no scientist, but I do know what yeast is and what it does. Oh, and with tha
 
 ## Background Information
 
-Most people know that yeast is a living thing. It may look like 
+Most people know that yeast is a living thing. It may look like a fine powder, but it is a sort of bacteria (or other small organism) that eats ingredients like flour, and emits a waste product (which I do not know the name of).
+
+When you add yeast to your bread dough, it wakes up from the sleep state it is in when you got it and it starts to eat the stuff in the dough and output waste. And the waste is what makes the dough rise.
+
+Inside the yeast (like all other organisms), a chemical reaction occurs in the mitochondria of the cell. The mitochondria takes in the food, and converts it to energy (really just another molecule that contains chemical energy which the organism uses to sustain its life processes). Most of the time, there is also some stuff in the food that the organism does not need, ie. waste, which the organism expels. Also, when the mitochondria does its chem reaction stuff, there can be a byproduct of the reaction which is unneeded. In humans, this byproduct is water, and it is part of the liquid in our bladder. And, also in humans, the food we eat has waste we don't process into energy at all; this waste goes out our rectum. In yeast, it is probably a similar story, and the waste expelled makes the dough of our bread rise.
