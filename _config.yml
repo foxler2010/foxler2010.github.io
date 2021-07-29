@@ -96,7 +96,7 @@ footer:
    #   url: "https://instagram.com/"
      - label: "Email"
        icon: "fab fa-fw fa-email"
-       email: "drew@drewssite.top"
+       url: "drew@drewssite.top"
 
 defaults:
   # _posts
