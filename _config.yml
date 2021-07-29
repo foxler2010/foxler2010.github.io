@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Drew's DIY
 subtitle: "Doing stupid stuff for the fun of it."
-email: drew@drewssite.top
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about everyday life, from the perspective of an everyday person.
 url: "https://drewssite.top"
@@ -79,9 +79,6 @@ author:
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
-    - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "drew@drewssite.top"
 
 footer:
   links:
@@ -94,9 +91,6 @@ footer:
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
-     - label: "Email"
-       icon: "fab fa-fw fa-email"
-       url: "drew@drewssite.top"
 
 defaults:
   # _posts
