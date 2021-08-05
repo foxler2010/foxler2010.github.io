@@ -45,7 +45,7 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "My stupid ideas"
-    excerpt: 'I have written a few posts about the garbage in my head. If you would like to see what's in my dreams then click here. (I don't know why anyone would care about the stuff here but that's beside me; do what you want.)'
+    excerpt: "I have written a few posts about the garbage in my head. If you would like to see what's in my dreams then click here. (I don't know why anyone would care about the stuff here but that's beside me; do what you want.)"
     url: "/categories/#stupid-ideas"
     btn_label: "Be confused."
     btn_class: "btn--primary"
