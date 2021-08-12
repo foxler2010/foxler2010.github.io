@@ -3,7 +3,6 @@ title: "Everything Broke!"
 excerpt_separator: "<!--more-->"
 categories:
   - Personal
-  - Updates
 tags:
   - standard
   - update
