@@ -1,6 +1,9 @@
 # Eclipse .project file
 /.project
 
+# Changelog
+/CHANGELOG
+
 # Stuff that was here when I genereated this repo
 _site
 .sass-cache
