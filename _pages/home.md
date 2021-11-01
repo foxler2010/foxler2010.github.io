@@ -23,7 +23,6 @@ feature_row:
     btn_label: "Check it out"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "The server"
     title: "Server"
     excerpt: "I own a Dell PowerEdge R710 that I use for a lot of things,"
     url: "/projects/server"
