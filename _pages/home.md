@@ -29,9 +29,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "The Minecraft title screen with Forge installed"
+    alt: "TBA: The Minecraft title screen with Forge installed"
     title: "Coding"
-    excerpt: "I know how to code in Java, and am currently working on coding Minecraft mods with the Forge API."
+    excerpt: "I know how to code in Java, and am currently working on making a text adventure (linked (here)<https://drewssite.top/jump-the-volcano>"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
