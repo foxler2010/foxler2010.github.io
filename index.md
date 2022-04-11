@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "The Minecraft title screen with Forge installed"
     title: "Coding"
-    excerpt: "I know how to code in Java, and am currently working on coding Minecraft mods with the Forge API."
+    excerpt: "I know how to code in Java, and am currently working on coding my text-adventure game, Jump The Volcano."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: ""
@@ -44,10 +44,10 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "My stupid ideas"
-    excerpt: "I have written a few posts about the garbage in my head. If you would like to see what's in my dreams then click here. (I don't know why anyone would care about the stuff here but that's beside me; do what you want.)"
-    url: "/categories/#stupid-ideas"
-    btn_label: "Be confused."
+    title: "Stupidity"
+    excerpt: "I admit,  I am very dumb. Go learn more by reading these posts!"
+    url: "/categories/#stupidity"
+    btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
