@@ -8,6 +8,7 @@ categories:
 tags:
   - random
   - standard
+  - update
 ---
 
 Hey there internet! It's been awhile. 
