@@ -35,7 +35,7 @@ I opened up GIMP in the afternoon while I was at school with nothing to do and g
 After creating it, I showed it to my friend Eric, who replied: "That looks like an NFT!"
 
 This leads us to today's topic, the Jump The Volcano Official Non-Fungible Tokens!!
-I've created a crypto wallet, and set up an account on https://opensea.io, the largest NFT exchange around.
+I've created a crypto wallet, and set up an account on [OpenSea](https://opensea.io), the largest NFT exchange around.
 I decided to use the Polygon sidechain for my first few NFTs, since I wanted to avoid paying the sometimes high Gas prices for using the regular Ethereum mainnet.
 As of writing, there is only one NFT, the Jump The Volcano Logo, which I am selling a single one of, for a fixed price of around $5.00 USD (that's $5.00 at the current Ethereum exchange rate, prices subject to change). The actual price is a 17 digit long decimal ETH value, that I won't type here, and it isn't exactly $5.00 USD, but I think that's okay.
 
@@ -45,6 +45,6 @@ Buying my NFTs is currently the best way to support what I do, as it is an easy 
 It also helps me and you learn more about crypto and the amazing world of decentralized currency.
 
 That's really all I have to say in this blog post. I hope to be posting more often now, and will be making more NFTs to flesh out the Jump The Volcano collecction.
-Be sure to check out the NFTs at https://opensea.io/collection/jump-the-volcano!
+Be sure to check out the NFTs [here](https://opensea.io/collection/jump-the-volcano)!
 
 And with that, peace out
