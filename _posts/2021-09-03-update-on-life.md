@@ -5,7 +5,6 @@ categories:
   - Personal
 tags:
   - random
-  - special
   - standard
   - update
 ---
