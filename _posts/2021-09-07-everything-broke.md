@@ -2,7 +2,7 @@
 title: "Everything Broke!"
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal
+  - Projects
 tags:
   - standard
   - update
