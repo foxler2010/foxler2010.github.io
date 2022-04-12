@@ -7,6 +7,7 @@ tags:
   - random
   - special
   - standard
+  - update
 ---
 
 So, I haven't been doing a lot of work lately on any of my projects. (That excludes all the gaming I've been doing...) I hope to make some major progress soon but I'm still working up the courage to post an issue in a repository I haven't contributed to in any way. Yes, I am using the software, but I don't normally take to GitHub to solve all my problems. That's reserved for Stack Overflow, which I still don't feel especially happy when posting a question on. I think it has something to do with you admitting to a bunch of internet strangers that you made a mistake, or that someone else did something wrong that is messing up your version of the software. Either way I don't like it. But I have to do it anyway because I've exhausted all my options. I can't leave this website broken forever. It has to live up to its standards, and I can't let it do that unless I have outside help. So that's that.
