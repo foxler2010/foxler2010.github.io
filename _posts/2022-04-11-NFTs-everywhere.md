@@ -3,10 +3,7 @@ title: "NFTs Everywhere!"
 excerpt_separator: "<!--more-->"
 categories:
   - Projects
-  - Personal
-  - Update
 tags:
-  - random
   - standard
   - update
 ---
