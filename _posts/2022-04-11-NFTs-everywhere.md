@@ -10,7 +10,7 @@ tags:
 
 Hey there internet! It's been awhile. 
 
-I created this site back in early 2021 after many attempts to host it myself failed, and I've been living the dream ever since! Sort of...
+I created this site back in early 2021 after many attempts to host it myself failed, and I've been living the dream ever since! Sort of... <!--more-->
 The homepage is still entirely unfinished, as I have yet to garner any images to go with my projects,
 and there are some things which are really hard to put into words but are necessary to show the true nature of what I want to showcase here on my site.
 
