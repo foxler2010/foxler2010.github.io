@@ -1,8 +1,0 @@
-# Eclipse .project file
-/.project
-
-# Stuff that was here when I genereated this repo
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
