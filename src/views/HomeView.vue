@@ -6,6 +6,8 @@
       <img src="../assets/splash.jpg" />
       <div class="box">
         <h1>Welcome to drewssite.top</h1>
+        <p>This is my website :)</p>
+        <button>Learn more!</button>
       </div>
     </div>
     <h1 v-for="n in 100" :key="n">{{ n }}</h1>
@@ -18,7 +20,6 @@
 }
 
 .header img {
-  position: absolute;
   width: 100%;
 }
 
