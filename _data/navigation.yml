@@ -1,7 +1,0 @@
-main:
-  - title: "Blog"
-    url: /blog/
-  - title: "About"
-    url: /about/
-  - title: "Archive"
-    url: /posts/

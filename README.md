@@ -1,5 +1,3 @@
-# oh hi
+# Trailer for website 2.0 below: (meant to be read like a pitch for a movie or software or something like that)
 
-This is my website. It uses the Minimal Mistakes theme for Jekyll and will someday be a lot cooler than it is now.
-
-Please visit it at https://drewssite.top to see all the cool stuff I'm working on.
+This is Website 2.0. Built from the ground up to not be bad. Utilizing advanced frameworking technologies like Vue and Barba.js, and cool styling with Sass, I can cut to the chase and get the cool stuff quick. Prepare for an epic website with ZERO placeholders and images that are not out of date, not to mention the absence of a blog I never use!! Coming to the master branch at a GitHub near you.
