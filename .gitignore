@@ -1,7 +1,3 @@
-# DOES NOT ignore /dist (where the latest build is),
-# as I build everything locally and then push it to Github to be served by Pages.
-# That way I do not have to use Actions and I can control when to update the live site simply by building only when needed, not on every push.
-
 # Logs
 logs
 *.log
@@ -16,6 +12,8 @@ node_modules
 .DS_Store
 coverage
 *.local
+dist
+dist-ssr
 
 /cypress/videos/
 /cypress/screenshots/
