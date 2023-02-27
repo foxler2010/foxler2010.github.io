@@ -15,7 +15,7 @@ import { RouterLink } from "vue-router";
 nav {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: darkblue;
+  background-color: black;
 }
 
 a {
@@ -27,15 +27,11 @@ a {
   text-decoration: none;
   font-weight: bold;
   font-family: sans-serif;
-  transition: background-color 0.25s;
+  transition: color 0.25s;
 }
 
 a:hover {
-  background-color: darkcyan;
-  transition: background-color 0.25s;
-}
-
-a:current {
-  background-color: darkmagenta;
+  color: red;
+  transition: color 0.25s;
 }
 </style>
