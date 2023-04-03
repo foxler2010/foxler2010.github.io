@@ -16,6 +16,7 @@ nav {
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: black;
+  margin: 0;
 }
 
 a {
